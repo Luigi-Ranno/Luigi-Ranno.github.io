@@ -51,8 +51,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "luigi96.ranno@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  linkedin: "https://www.linkedin.com/in/luigi-ranno/"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  linkedin: luigi-ranno/
+  ORCID: 0000-0002-8444-3022
+  google-scholar: "https://scholar.google.com/citations?user=Xyz1OFsAAAAJ&hl=en"
   github: Luigi-Ranno
 #  medium: yourname
 #  reddit: yourname
@@ -70,8 +72,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: "https://orcid.org/0000-0002-8444-3022"
-  google-scholar: "https://scholar.google.com/citations?user=Xyz1OFsAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
